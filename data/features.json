@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Simple",
+    "description": "All the bare necessities are there.",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Fast",
+    "description": "Light weight and fast loading speed.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Customizable",
+    "description": "Easy to customize and extend for your needs.",
+    "icon": "icon-settings"
+  }
+]

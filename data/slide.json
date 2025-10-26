@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Welcome to Your Hugo Site",
+    "image": "img/slide/slide01.jpg"
+  },
+  {
+    "title": "Built with the Tella Theme",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-white"
+  }
+]
