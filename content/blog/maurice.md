@@ -1,10 +1,11 @@
 +++
 author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+title = "Maurice"
+date = "2025-10-26"
+description = "Cette page est dédiée à Maurice"
 tags = [
-    "emoji",
+    "maurice",
+    "team",
 ]
 +++
 
