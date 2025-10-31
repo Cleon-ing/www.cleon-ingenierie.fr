@@ -1,11 +1,6 @@
 [
   {
-    "title": "Welcome to Your Hugo Site",
+    "title": "CLEON Ingénierie",
     "image": "img/slide/slide01.jpg"
-  },
-  {
-    "title": "Built with the Tella Theme",
-    "image": "img/slide/slide02.jpg",
-    "color": "text-white"
   }
 ]
