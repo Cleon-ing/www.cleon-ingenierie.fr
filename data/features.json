@@ -1,17 +1,32 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "Expertise CVC",
+    "description": "Conception et dimensionnement des systèmes de chauffage, ventilation et climatisation pour tous types de bâtiments.",
+    "icon": "icon-settings"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
+    "title": "Froid Industriel",
+    "description": "Maîtrise complète des fluides naturels et solutions pour environnements critiques et laboratoires.",
+    "icon": "icon-ac_unit"
+  },
+  {
+    "title": "Performance Énergétique",
+    "description": "Audits énergétiques, optimisation RE2020 et solutions bas carbone pour réduire vos consommations.",
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "Customizable",
-    "description": "Easy to customize and extend for your needs.",
-    "icon": "icon-settings"
+    "title": "Data Centers",
+    "description": "Études thermiques CFD, architectures redondantes et optimisation PUE pour environnements critiques.",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Accompagnement Projet",
+    "description": "AMO/MOE, coordination technique et suivi d'exécution du besoin initial à la mise en service.",
+    "icon": "icon-assignment"
+  },
+  {
+    "title": "Innovation Durable",
+    "description": "Recherche continue d'efficacité énergétique et transition vers des solutions à faible impact environnemental.",
+    "icon": "icon-eco"
   }
 ]
