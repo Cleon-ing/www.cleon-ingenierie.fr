@@ -2,6 +2,7 @@
 title = "🧭 À propos"
 date = "2025-10-04"
 description = "Découvrez CLEON Ingénierie, bureau d'études indépendant spécialisé en froid industriel et génie climatique. Excellence technique et innovation responsable."
+image = "./img/logo/logo-cleon.png"
 tags = [
     "apropos",
     "cleon-ingenierie",

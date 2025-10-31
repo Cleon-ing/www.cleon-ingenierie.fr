@@ -2,6 +2,7 @@
 title = "✉️ Contact"
 date = "2025-10-05"
 description = "Contactez CLEON Ingénierie - Bureau d'études CVC, plomberie et froid industriel basé à Paris. Demandez un devis pour vos projets d'ingénierie des fluides."
+image = "./img/blog/contact.jpg"
 tags = [
     "contact",
     "cleon-ingenierie",

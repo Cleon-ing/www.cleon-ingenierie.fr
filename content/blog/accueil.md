@@ -2,6 +2,7 @@
 title = "🏠 Accueil"
 date = "2025-10-01"
 description = "CLEON Ingénierie - Bureau d'études spécialisé en CVC, chauffage, ventilation, climatisation et plomberie. Performance énergétique et durabilité pour vos projets techniques."
+image = "./img/blog/accueil.png"
 tags = [
     "cleon-ingenierie",
     "bureau-etudes",

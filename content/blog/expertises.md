@@ -2,6 +2,7 @@
 title = "⚙️ Expertises"
 date = "2025-10-02"
 description = "Nos expertises en CVC/HVAC, froid industriel, data centers, performance énergétique. Solutions techniques pour environnements critiques et industriels."
+image = "./img/blog/expertise.png"
 tags = [
     "expertises",
     "cvc",

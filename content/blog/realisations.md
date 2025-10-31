@@ -2,6 +2,7 @@
 title = "🏗️ Réalisations"
 date = "2025-10-03"
 description = "Découvrez nos réalisations : Husqvarna France, établissements scolaires, projets CVC et plomberie. Exemples concrets de notre expertise en ingénierie des fluides."
+image = "./img/blog/realisations.png"
 tags = [
     "realisations",
     "projets",
